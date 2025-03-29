@@ -2,7 +2,7 @@
 ## web based - no pc required
 
 
-[![Watch the video](pic1.png)](https://ody.sh/Jg9MwdrqqZ)
+[![Watch the video](pic1.png)](https://ody.sh/265wwWBjEw)
 
 
 
@@ -89,13 +89,8 @@ Eva*de antivirus detection permanently. Our RAT cannot be detected by any antivi
 
 ---
 
-## Pricing
 
-- **Basic Version:** [Price]  
-- **Premium Version:** [Price]  
-- **Custom Version:** Contact us for pricing.
-
-## Contact Information
+## Pricing / Contact Information
 
 - **Telegram:**  
   Admin: [https://t.me/XVirtuo]  
@@ -103,8 +98,8 @@ Eva*de antivirus detection permanently. Our RAT cannot be detected by any antivi
 
 ## Video Links
 
-- **Demo Video 1:** [https://ody.sh/Jg9MwdrqqZ]  
-- **Demo Video 2:** []  
+- **Video 1:** [https://ody.sh/265wwWBjEw]  
+- **Video 2:** []  
 - **Installation Guide:** []
 
 ---
